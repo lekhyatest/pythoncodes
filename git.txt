@@ -1,0 +1,35 @@
+    git and GitHub:
+
+  version control tool
+
+version 1.0:  2 programs
+version 2.0 :4 programs  [commit]
+version 3.0: 6 programs 
+
+  open source framework
+
+  project:
+   A collection of programs
+
+   deployment:
+      To run ur project in into server system
+
+     GitHub:
+    it is one of the hosting service environment.
+ GitHub Account:
+    Gmail details:
+    email:
+     username:
+      password:
+
+    repository:
+           it is one of the space for storing programs,files...etc.
+    it is also called as "folder"
+Every repository name should be unqiue.
+       branchs:
+       By default branch is "main"
+
+         servers:
+          1)devlopement server[dev]
+         2)testing server[test]
+         3)production server[prod]
